@@ -7,8 +7,9 @@ Some libaries(glad it was) were copied from jdh's "minecraft, made in 48 hours",
 building
 Unix-like
 
-`$ git clone --recurse-submodules https://github.com/AnonimFan/Kilocraft/`
-`$ make`
+repo clone by:`$ git clone --recurse-submodules https://github.com/AnonimFan/Kilocraft/`
+
+building with:`$ make`
 
 The following static libraries under lib/ must be built before the main project can be built:
 
