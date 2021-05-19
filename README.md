@@ -5,7 +5,7 @@ Minicraft remake, BUT its sandbox, so basicly Minecraft in 2d
 Some libaries(glad it was) were copied from jdh's "minecraft, made in 48 hours", https://github.com/jdah/minecraft-weekend/
 
 building
-####Unix-like
+Unix-like
 
 `$ git clone --recurse-submodules https://github.com/AnonimFan/Kilocraft/`
 `$ make`
@@ -22,6 +22,6 @@ The game binary, once built with `$ make`, can be found in `./bin/.`
 Be sure to run with $ ./bin/game out of the root directory of the repository. If you are getting "cannot 
 open file" errors (such as "cannot find ./res/shaders/*.vs"), this is the issue.
 
-####Windows
+Windows
 
 good luck 🤷‍♂️ probably try building under WSL and using an X environment to pass graphics through.
